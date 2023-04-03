@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Elastic.AddressResolver": {
+      "commandName": "Project",
+      "commandLineArgs": "hotmail.com gmail.com -dns 8.8.8.8 -output ism.txt -input domains.txt"
+    }
+  }
+}

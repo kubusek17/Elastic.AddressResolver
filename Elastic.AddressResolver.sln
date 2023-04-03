@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elastic.AddressResolver", "Elastic.AddressResolver\Elastic.AddressResolver.csproj", "{607D0452-B3AD-4C85-B685-89DE0E31A817}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elastic.AddressResolver.Tests", "Elastic.AddressResolver.Tests\Elastic.AddressResolver.Tests.csproj", "{3EFC8441-C8A3-455B-B75A-C32136F430AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{607D0452-B3AD-4C85-B685-89DE0E31A817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{607D0452-B3AD-4C85-B685-89DE0E31A817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{607D0452-B3AD-4C85-B685-89DE0E31A817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{607D0452-B3AD-4C85-B685-89DE0E31A817}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EFC8441-C8A3-455B-B75A-C32136F430AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EFC8441-C8A3-455B-B75A-C32136F430AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EFC8441-C8A3-455B-B75A-C32136F430AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EFC8441-C8A3-455B-B75A-C32136F430AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8BD7C77-17A1-4B45-921E-B32A63885E7B}
+	EndGlobalSection
+EndGlobal
